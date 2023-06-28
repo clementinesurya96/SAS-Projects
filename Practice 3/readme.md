@@ -1,4 +1,4 @@
-# Practice 3 - Manipulating Character Variables
+# Practice 3 - Create and Manipulate Character Variables
 
 ## Introduction:
 This SAS programming practice focuses on utilizing the DEMOGRAPHICS dataset from the SASHELP library to perform various tasks. 
