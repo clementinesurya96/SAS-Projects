@@ -1,8 +1,10 @@
-# Introduction:
+# Practice 1
+
+## Introduction:
 This SAS programming practice focuses on utilizing the CARS dataset from the SASHELP library to perform various tasks. 
 Instead of relying on point-and-click routines, we write SAS code to accomplish each task. 
 
-# Practice Task:
+## Task:
 
 a. Write a PROC step to view the contents of the CARS dataset:
 
@@ -26,4 +28,6 @@ e. Creating a Report for Cars with Engine Size > 3 Litres, Horsepower > 250, and
 Write SAS code to generate a report that contains only the cars from the CARS dataset with an engine size greater than 3 litres, 
 horsepower greater than 250, and set the car make as the ID. 
 
-Enjoy practicing your SAS programming skills and feel free to modify or expand upon these tasks based on your learning goals. Happy coding!
+Enjoy practicing your SAS programming skills and feel free to modify or expand upon these tasks based on your learning goals. 
+
+Happy coding!
