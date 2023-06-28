@@ -1,4 +1,4 @@
-/* Tutorial 3 */
+/* Practice 1 */
 
 /* a. Write a PROC step to view the contents of the CARS dataset. Ensure the vari-
 ables are sorted in the order in which they appear in the table. */
