@@ -49,4 +49,5 @@ Create a new variable that records if participants are young (< 32), middle-aged
 Use appropriate cutoffs for these categories. 
 
 Enjoy practicing your SAS programming skills and feel free to modify or expand upon these tasks based on your learning goals. 
+
 Happy coding!
