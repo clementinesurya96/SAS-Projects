@@ -1,9 +1,11 @@
-# Introduction
+# Practice 4 - Data Manipulation & Create Functions
+
+## Introduction
 This repository contains the SAS programming code for completing two tasks. 
 The tasks involve manipulating datasets using the SAS programming language. 
 The details of each task and the steps to accomplish them are described below.
 
-## Task 1: HEART Dataset Manipulation
+### Task 1: HEART Dataset Manipulation
 For this task, the HEART dataset from the SASHELP library is used. 
 The goal is to perform various operations on the dataset and create new datasets based on specific criteria. 
 
@@ -23,7 +25,7 @@ have an age at death of less than 56.
 d. Print the first 5 rows of heart3. What is the status for the third person? What
 was their age at death? 
 
-## Task 2 - Create Function in SAS
+### Task 2 - Create Function in SAS
 Create functions to answer the following questions, and test each of them on the
 Baseball dataset. Save them in the ‘functions’ table of the S40840 library, in a package
 called ‘myfunctions’. 
