@@ -1,4 +1,4 @@
-# Practice 1
+# Practice 1 - Data Manipulation
 
 ## Introduction:
 This SAS programming practice focuses on utilizing the CARS dataset from the SASHELP library to perform various tasks. 
