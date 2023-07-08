@@ -1,4 +1,4 @@
-/* Practice 6 */
+/* Practice 4 */
 
 /* 1. Use the HEART dataset from the SASHELP library for these questions. Write steps
 for these questions, remembering to comment your code clearly. Create and save a new
