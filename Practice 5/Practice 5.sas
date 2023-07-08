@@ -23,42 +23,7 @@ DATA random (drop = i);
          output;
     end;
 run;
-
-/* e. Adapt the ODS LAYOUT code to create a 2 × 2 plotting panel, and produce
-an appropriate summary plot for your simulations. (e.g. a histogram or boxplot
-would be suitable for the 50 uniformly distributed random variables.) */
-
-
-
-ods layout gridded columns=2 width=10cm height=10cm column_gutter=.25in style={background=lightblue}
-order_type=row_major;
-
-    /* row=1 column=1 */
-    ods region;
-    PROC sgplot data=RANDOM;
-    scatter x=a y=b;
-    run;
-
-    /* row=1 column=2 */
-    ods region;
-    proc sgplot data=RANDOM;
-    histogram d;
-    run;
-
-    /* row=2 column=1 */
-    ods region;
-    proc sgplot data=RANDOM;
-    histogram a;
-    run;
-
-    /* row=2 column=2 */
-    ods region;
-    PROC sgplot data=RANDOM;
-    scatter x=c y=d;
-    run;
-
-ods layout end;
-
+  
 /* 2. Using the HEART dataset:
 a. Create a plot showing two histograms: the first is the Height of the Female partic-
 ipants in dataset; the second is the Height of the Male participants in the dataset.*/
